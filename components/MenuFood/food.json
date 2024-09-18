@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Miếng gà giòn vui vẻ",
+        "price": 33,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/1/_/1_mi_ng_ggvv_png_1.png"
+    },
+    {
+        "id": 2,
+        "name": "C2 - CƠM GÀ GIÒN + SÚP BÍ ĐỎ + NƯỚC NGỌT LỚN",
+        "price": 63,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/c/o/com_ga_sup_nc_1.png"
+    },
+    {
+        "id": 3,
+        "name": "CƠM GÀ GIÒN (1 MIẾNG GÀ GIÒN, CƠM VÀ XÀ LÁCH)",
+        "price": 48,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/6/d/6d2e290195e851-cmggin_1_2.png"
+    },
+    {
+        "id": 4,
+        "name": "2 MIẾNG GÀ GIÒN",
+        "price": 66,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/d/1/d1834d87116836-2mingggin_1.png"
+    },
+    {
+        "id": 5,
+        "name": "2 MIẾNG GÀ GIÒN",
+        "price": 66,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/d/1/d1834d87116836-2mingggin_1.png"
+    },
+    {
+        "id": 6,
+        "name": "6 MIẾNG GÀ GIÒN",
+        "price": 188,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/e/e/ee8e7512368728-6mingggin_1.png"
+    },
+    {
+        "id": 7,
+        "name": "2 MIẾNG GÀ GIÒN + KHOAI TÂY VỪA + NƯỚC NGỌT LỚN",
+        "price": 91,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/2/_/2_ga_gion_khoai_nc.png"
+    },
+    {
+        "id": 8,
+        "name": "CƠM GÀ GIÒN + PEPSI LỚN",
+        "price": 58,
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/c/_/c_m_g_n_c.png"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "TIỆC KIỂU MỚI, QUÀ CHUẨN GU 499K",
+        "price": "499,000₫",
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/4/9/499k.jpg"
+    },
+    {
+        "id": 2,
+        "name": "TIỆC KIỂU MỚI, QUÀ CHUẨN GU 599K",
+        "price": "599,000₫",
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/5/9/599kk.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TIỆC KIỂU MỚI, QUÀ CHUẨN GU 699K",
+        "price": "699,000₫",
+        "img": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/6/9/699k.jpg"
+    }
+    
+]
